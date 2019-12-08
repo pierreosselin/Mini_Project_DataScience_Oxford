@@ -5,4 +5,4 @@ This project relies on the work of "Banerjee A, Chandrasekhar AG, Duflo E, Jacks
 Science 341(6144):1236498" to study stratification in network data and leverage this characteristic to choose "injection points" for microfinance diffusion.
 
 # Result
-
+![](/Images/Adopters27.png)
