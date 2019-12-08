@@ -7,4 +7,5 @@ Science 341(6144):1236498" to study stratification in network data and leverage 
 In these networks, leaders are chosen to diffuse microfinance plans in their village. We conceived a strategy that takes the stratification of the network into account for the choice of these leaders and compare the results of this choice with the strategy paper or strategy based on centrality measures. 
 
 # Result
-![Example](/Images/Adopters27.png)
+Example of village where our strategy performs better than the paper or other strategies.
+![](/Images/Adopters27.png)
